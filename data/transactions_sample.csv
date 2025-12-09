@@ -1,0 +1,10 @@
+date,user_id,type,amount,category
+2025-10-01,1001,credit,50000.00,salary
+2025-10-03,1001,debit,1500.00,grocery
+2025-10-05,1002,credit,30000.00,salary
+2025-10-06,1001,debit,12000.00,shopping
+2025-10-07,1002,debit,2500.00,utility
+2025-10-08,1003,credit,45000.00,salary
+2025-10-09,1003,debit,3200.00,medical
+2025-10-11,1001,debit,549.00,food
+2025-10-12,1002,debit,899.00,food

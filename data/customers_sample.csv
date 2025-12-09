@@ -1,0 +1,11 @@
+customer_id,total_orders,avg_order_value,tenure_days,segment_hint
+CUST0001,23,120.45,345,mid
+CUST0002,5,89.50,45,low
+CUST0003,58,220.30,900,high
+CUST0012,7,142.00,120,mid
+CUST0022,2,79.50,30,low
+CUST0033,12,250.00,400,mid
+CUST0044,41,98.60,800,mid
+CUST0075,3,199.99,10,low
+CUST0100,10,499.00,250,mid
+CUST0015,6,55.00,60,low
